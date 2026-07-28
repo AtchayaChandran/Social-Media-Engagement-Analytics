@@ -323,29 +323,37 @@ Through this project, the following concepts were applied:
 
 # 📸 Screenshots
 
-Add screenshots of:
+## Dataset Preview
 
-- Dataset Preview
-- Bar Chart
-  <img width="944" height="640" alt="Screenshot 2026-07-28 221711" src="https://github.com/user-attachments/assets/2bfe2d32-8c7f-49f0-be09-63a66b7220e3" />
+<img src="<img width="1919" height="402" alt="Screenshot 2026-07-28 223511" src="https://github.com/user-attachments/assets/731dd8c8-8e67-40fa-9b22-1f0f727e6955" />" width="900">
 
-- Histogram
-  <img width="926" height="620" alt="Screenshot 2026-07-28 221921" src="https://github.com/user-attachments/assets/6458623c-4ccb-4355-80d4-dcdaaa98fd1d" />
+## Bar Chart
 
-- Box Plot
-  <img width="851" height="629" alt="Screenshot 2026-07-28 222019" src="https://github.com/user-attachments/assets/720852a0-269e-434e-82d5-f0763d478e95" />
+<img src="https://github.com/user-attachments/assets/2bfe2d32-8c7f-49f0-be09-63a66b7220e3" width="900">
 
-- Scatter Plot
-  <img width="940" height="615" alt="Screenshot 2026-07-28 222108" src="https://github.com/user-attachments/assets/54e74553-8ed1-4041-929b-348a449e9ebc" />
+## Histogram
 
-- Heatmap
-  <img width="1212" height="1036" alt="Screenshot 2026-07-28 222153" src="https://github.com/user-attachments/assets/7db2761a-c159-4fad-9810-58edaf022d72" />
+<img src="https://github.com/user-attachments/assets/6458623c-4ccb-4355-80d4-dcdaaa98fd1d" width="900">
 
-- Plotly Visualization
-   <img width="1879" height="662" alt="Screenshot 2026-07-28 222751" src="https://github.com/user-attachments/assets/70ffe95e-36cc-40fb-a500-e16474f62283" />
+## Box Plot
+
+<img src="https://github.com/user-attachments/assets/720852a0-269e-434e-82d5-f0763d478e95" width="900">
+
+## Scatter Plot
+
+<img src="https://github.com/user-attachments/assets/54e74553-8ed1-4041-929b-348a449e9ebc" width="900">
+
+## Correlation Heatmap
+
+<img src="https://github.com/user-attachments/assets/7db2761a-c159-4fad-9810-58edaf022d72" width="900">
+
+## Interactive Plotly Visualization
+
+<img src="https://github.com/user-attachments/assets/70ffe95e-36cc-40fb-a500-e16474f62283" width="900">
 
 
 ---
+
 
 # 👩‍💻 Author
 
