@@ -325,7 +325,7 @@ Through this project, the following concepts were applied:
 
 ## Dataset Preview
 
-<img src="<img width="1919" height="402" alt="Screenshot 2026-07-28 223511" src="https://github.com/user-attachments/assets/731dd8c8-8e67-40fa-9b22-1f0f727e6955" />" width="900">
+<img width="1919" height="402" alt="Screenshot 2026-07-28 223511" src="https://github.com/user-attachments/assets/731dd8c8-8e67-40fa-9b22-1f0f727e6955" />
 
 ## Bar Chart
 
